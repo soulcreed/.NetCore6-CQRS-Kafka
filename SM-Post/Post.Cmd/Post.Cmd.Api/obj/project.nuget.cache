@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "rua/YWWQ3JVZifwaxYcQNdJsCOh3WD+HkOED5xTl9d+8Q1t4wJTp+tg6bqc95E5RnicM0mhF6+ZMkEOyjPIBMQ==",
-  "success": true,
-  "projectFilePath": "C:\\Workspace\\Arq Pessoal\\microservices cqrs 6\\SM-Post\\Post.Cmd\\Post.Cmd.Api\\Post.Cmd.Api.csproj",
+  "dgSpecHash": "tbN7KEmMpfPz47SDShZPf/bD3CUCEKEKN6gHcA36JoTNqfmT0ALi6ncqDX1khd2BIcPh5WXIaPUn8qKmQVcuoA==",
+  "success": false,
+  "projectFilePath": "C:\\Workspace\\Arq Pessoal\\microservices cqrs 6\\.NetCore6-CQRS-Kafka\\SM-Post\\Post.Cmd\\Post.Cmd.Api\\Post.Cmd.Api.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\User\\.nuget\\packages\\confluent.kafka\\1.8.2\\confluent.kafka.1.8.2.nupkg.sha512",
     "C:\\Users\\User\\.nuget\\packages\\dnsclient\\1.4.0\\dnsclient.1.4.0.nupkg.sha512",
@@ -25,5 +25,15 @@
     "C:\\Users\\User\\.nuget\\packages\\system.memory\\4.5.0\\system.memory.4.5.0.nupkg.sha512",
     "C:\\Users\\User\\.nuget\\packages\\system.runtime.compilerservices.unsafe\\6.0.0\\system.runtime.compilerservices.unsafe.6.0.0.nupkg.sha512"
   ],
-  "logs": []
+  "logs": [
+    {
+      "code": "NU1105",
+      "level": "Error",
+      "message": "Unable to find project information for 'C:\\Workspace\\Arq Pessoal\\microservices cqrs 6\\.NetCore6-CQRS-Kafka\\CQRS-ES\\CQRS.Core\\CQRS.Core.csproj'. If you are using Visual Studio, this may be because the project is unloaded or not part of the current solution so run a restore from the command-line. Otherwise, the project file may be invalid or missing targets required for restore.",
+      "libraryId": "C:\\Workspace\\Arq Pessoal\\microservices cqrs 6\\.NetCore6-CQRS-Kafka\\CQRS-ES\\CQRS.Core\\CQRS.Core.csproj",
+      "targetGraphs": [
+        "net6.0"
+      ]
+    }
+  ]
 }

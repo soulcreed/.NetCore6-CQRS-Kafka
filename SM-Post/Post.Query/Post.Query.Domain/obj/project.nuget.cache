@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "rdNH8mQbaBy7Pa5OkUnl2qtb+rgv1GdD1GPh+62pXBMwaH05bcreYbMZNmJibBXxRxV/EAxuPD74co9bIzX+Nw==",
+  "dgSpecHash": "pr37AmJNWZn+bLEnZxBrC5nfF9WbWGmHoeEzs5J4dQaKG03ZuGd6iAeF3UfR1lyP6T0HB1U80lPsW1+2tkKKnw==",
   "success": true,
-  "projectFilePath": "C:\\Workspace\\Arq Pessoal\\microservices cqrs 6\\SM-Post\\Post.Query\\Post.Query.Domain\\Post.Query.Domain.csproj",
+  "projectFilePath": "C:\\Workspace\\Arq Pessoal\\microservices cqrs 6\\.NetCore6-CQRS-Kafka\\SM-Post\\Post.Query\\Post.Query.Domain\\Post.Query.Domain.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

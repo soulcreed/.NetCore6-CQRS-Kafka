@@ -437,24 +437,11 @@
           "buildTransitive/netcoreapp3.1/_._": {}
         }
       },
-      "CQRS.Core/1.0.0": {
-        "type": "project",
-        "framework": ".NETCoreApp,Version=v6.0",
-        "dependencies": {
-          "MongoDB.Driver": "2.14.1"
-        },
-        "compile": {
-          "bin/placeholder/CQRS.Core.dll": {}
-        },
-        "runtime": {
-          "bin/placeholder/CQRS.Core.dll": {}
-        }
-      },
       "Post.Cmd.Domain/1.0.0": {
         "type": "project",
         "framework": ".NETCoreApp,Version=v6.0",
         "dependencies": {
-          "CQRS.Core": "1.0.0",
+          "C:\\Workspace\\Arq Pessoal\\microservices cqrs 6\\.NetCore6-CQRS-Kafka\\CQRS-ES\\CQRS.Core\\CQRS.Core.csproj": "1.0.0",
           "Post.Common": "1.0.0"
         },
         "compile": {
@@ -468,7 +455,7 @@
         "type": "project",
         "framework": ".NETCoreApp,Version=v6.0",
         "dependencies": {
-          "CQRS.Core": "1.0.0",
+          "C:\\Workspace\\Arq Pessoal\\microservices cqrs 6\\.NetCore6-CQRS-Kafka\\CQRS-ES\\CQRS.Core\\CQRS.Core.csproj": "1.0.0",
           "Confluent.Kafka": "1.8.2",
           "Microsoft.Extensions.Options": "6.0.0",
           "MongoDB.Driver": "2.14.1",
@@ -485,7 +472,7 @@
         "type": "project",
         "framework": ".NETCoreApp,Version=v6.0",
         "dependencies": {
-          "CQRS.Core": "1.0.0"
+          "C:\\Workspace\\Arq Pessoal\\microservices cqrs 6\\.NetCore6-CQRS-Kafka\\CQRS-ES\\CQRS.Core\\CQRS.Core.csproj": "1.0.0"
         },
         "compile": {
           "bin/placeholder/Post.Common.dll": {}
@@ -1017,11 +1004,6 @@
         "useSharedDesignerContext.txt"
       ]
     },
-    "CQRS.Core/1.0.0": {
-      "type": "project",
-      "path": "../../../CQRS-ES/CQRS.Core/CQRS.Core.csproj",
-      "msbuildProject": "../../../CQRS-ES/CQRS.Core/CQRS.Core.csproj"
-    },
     "Post.Cmd.Domain/1.0.0": {
       "type": "project",
       "path": "../Post.Cmd.Domain/Post.Cmd.Domain.csproj",
@@ -1040,7 +1022,7 @@
   },
   "projectFileDependencyGroups": {
     "net6.0": [
-      "CQRS.Core >= 1.0.0",
+      "C:\\Workspace\\Arq Pessoal\\microservices cqrs 6\\.NetCore6-CQRS-Kafka\\CQRS-ES\\CQRS.Core\\CQRS.Core.csproj",
       "Post.Cmd.Domain >= 1.0.0",
       "Post.Cmd.Infrastructure >= 1.0.0",
       "Post.Common >= 1.0.0",
@@ -1053,11 +1035,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Workspace\\Arq Pessoal\\microservices cqrs 6\\SM-Post\\Post.Cmd\\Post.Cmd.Api\\Post.Cmd.Api.csproj",
+      "projectUniqueName": "C:\\Workspace\\Arq Pessoal\\microservices cqrs 6\\.NetCore6-CQRS-Kafka\\SM-Post\\Post.Cmd\\Post.Cmd.Api\\Post.Cmd.Api.csproj",
       "projectName": "Post.Cmd.Api",
-      "projectPath": "C:\\Workspace\\Arq Pessoal\\microservices cqrs 6\\SM-Post\\Post.Cmd\\Post.Cmd.Api\\Post.Cmd.Api.csproj",
+      "projectPath": "C:\\Workspace\\Arq Pessoal\\microservices cqrs 6\\.NetCore6-CQRS-Kafka\\SM-Post\\Post.Cmd\\Post.Cmd.Api\\Post.Cmd.Api.csproj",
       "packagesPath": "C:\\Users\\User\\.nuget\\packages\\",
-      "outputPath": "C:\\Workspace\\Arq Pessoal\\microservices cqrs 6\\SM-Post\\Post.Cmd\\Post.Cmd.Api\\obj\\",
+      "outputPath": "C:\\Workspace\\Arq Pessoal\\microservices cqrs 6\\.NetCore6-CQRS-Kafka\\SM-Post\\Post.Cmd\\Post.Cmd.Api\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\User\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -1074,17 +1056,17 @@
         "net6.0": {
           "targetAlias": "net6.0",
           "projectReferences": {
-            "C:\\Workspace\\Arq Pessoal\\microservices cqrs 6\\CQRS-ES\\CQRS.Core\\CQRS.Core.csproj": {
-              "projectPath": "C:\\Workspace\\Arq Pessoal\\microservices cqrs 6\\CQRS-ES\\CQRS.Core\\CQRS.Core.csproj"
+            "C:\\Workspace\\Arq Pessoal\\microservices cqrs 6\\.NetCore6-CQRS-Kafka\\CQRS-ES\\CQRS.Core\\CQRS.Core.csproj": {
+              "projectPath": "C:\\Workspace\\Arq Pessoal\\microservices cqrs 6\\.NetCore6-CQRS-Kafka\\CQRS-ES\\CQRS.Core\\CQRS.Core.csproj"
             },
-            "C:\\Workspace\\Arq Pessoal\\microservices cqrs 6\\SM-Post\\Post.Cmd\\Post.Cmd.Domain\\Post.Cmd.Domain.csproj": {
-              "projectPath": "C:\\Workspace\\Arq Pessoal\\microservices cqrs 6\\SM-Post\\Post.Cmd\\Post.Cmd.Domain\\Post.Cmd.Domain.csproj"
+            "C:\\Workspace\\Arq Pessoal\\microservices cqrs 6\\.NetCore6-CQRS-Kafka\\SM-Post\\Post.Cmd\\Post.Cmd.Domain\\Post.Cmd.Domain.csproj": {
+              "projectPath": "C:\\Workspace\\Arq Pessoal\\microservices cqrs 6\\.NetCore6-CQRS-Kafka\\SM-Post\\Post.Cmd\\Post.Cmd.Domain\\Post.Cmd.Domain.csproj"
             },
-            "C:\\Workspace\\Arq Pessoal\\microservices cqrs 6\\SM-Post\\Post.Cmd\\Post.Cmd.Infrastructure\\Post.Cmd.Infrastructure.csproj": {
-              "projectPath": "C:\\Workspace\\Arq Pessoal\\microservices cqrs 6\\SM-Post\\Post.Cmd\\Post.Cmd.Infrastructure\\Post.Cmd.Infrastructure.csproj"
+            "C:\\Workspace\\Arq Pessoal\\microservices cqrs 6\\.NetCore6-CQRS-Kafka\\SM-Post\\Post.Cmd\\Post.Cmd.Infrastructure\\Post.Cmd.Infrastructure.csproj": {
+              "projectPath": "C:\\Workspace\\Arq Pessoal\\microservices cqrs 6\\.NetCore6-CQRS-Kafka\\SM-Post\\Post.Cmd\\Post.Cmd.Infrastructure\\Post.Cmd.Infrastructure.csproj"
             },
-            "C:\\Workspace\\Arq Pessoal\\microservices cqrs 6\\SM-Post\\Post.Common\\Post.Common.csproj": {
-              "projectPath": "C:\\Workspace\\Arq Pessoal\\microservices cqrs 6\\SM-Post\\Post.Common\\Post.Common.csproj"
+            "C:\\Workspace\\Arq Pessoal\\microservices cqrs 6\\.NetCore6-CQRS-Kafka\\SM-Post\\Post.Common\\Post.Common.csproj": {
+              "projectPath": "C:\\Workspace\\Arq Pessoal\\microservices cqrs 6\\.NetCore6-CQRS-Kafka\\SM-Post\\Post.Common\\Post.Common.csproj"
             }
           }
         }
@@ -1126,5 +1108,16 @@
         "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.401\\RuntimeIdentifierGraph.json"
       }
     }
-  }
+  },
+  "logs": [
+    {
+      "code": "NU1105",
+      "level": "Error",
+      "message": "Unable to find project information for 'C:\\Workspace\\Arq Pessoal\\microservices cqrs 6\\.NetCore6-CQRS-Kafka\\CQRS-ES\\CQRS.Core\\CQRS.Core.csproj'. If you are using Visual Studio, this may be because the project is unloaded or not part of the current solution so run a restore from the command-line. Otherwise, the project file may be invalid or missing targets required for restore.",
+      "libraryId": "C:\\Workspace\\Arq Pessoal\\microservices cqrs 6\\.NetCore6-CQRS-Kafka\\CQRS-ES\\CQRS.Core\\CQRS.Core.csproj",
+      "targetGraphs": [
+        "net6.0"
+      ]
+    }
+  ]
 }

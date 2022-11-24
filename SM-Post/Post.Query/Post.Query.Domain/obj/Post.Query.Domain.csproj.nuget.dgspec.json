@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Workspace\\Arq Pessoal\\microservices cqrs 6\\SM-Post\\Post.Query\\Post.Query.Domain\\Post.Query.Domain.csproj": {}
+    "C:\\Workspace\\Arq Pessoal\\microservices cqrs 6\\.NetCore6-CQRS-Kafka\\SM-Post\\Post.Query\\Post.Query.Domain\\Post.Query.Domain.csproj": {}
   },
   "projects": {
-    "C:\\Workspace\\Arq Pessoal\\microservices cqrs 6\\SM-Post\\Post.Query\\Post.Query.Domain\\Post.Query.Domain.csproj": {
+    "C:\\Workspace\\Arq Pessoal\\microservices cqrs 6\\.NetCore6-CQRS-Kafka\\SM-Post\\Post.Query\\Post.Query.Domain\\Post.Query.Domain.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Workspace\\Arq Pessoal\\microservices cqrs 6\\SM-Post\\Post.Query\\Post.Query.Domain\\Post.Query.Domain.csproj",
+        "projectUniqueName": "C:\\Workspace\\Arq Pessoal\\microservices cqrs 6\\.NetCore6-CQRS-Kafka\\SM-Post\\Post.Query\\Post.Query.Domain\\Post.Query.Domain.csproj",
         "projectName": "Post.Query.Domain",
-        "projectPath": "C:\\Workspace\\Arq Pessoal\\microservices cqrs 6\\SM-Post\\Post.Query\\Post.Query.Domain\\Post.Query.Domain.csproj",
+        "projectPath": "C:\\Workspace\\Arq Pessoal\\microservices cqrs 6\\.NetCore6-CQRS-Kafka\\SM-Post\\Post.Query\\Post.Query.Domain\\Post.Query.Domain.csproj",
         "packagesPath": "C:\\Users\\User\\.nuget\\packages\\",
-        "outputPath": "C:\\Workspace\\Arq Pessoal\\microservices cqrs 6\\SM-Post\\Post.Query\\Post.Query.Domain\\obj\\",
+        "outputPath": "C:\\Workspace\\Arq Pessoal\\microservices cqrs 6\\.NetCore6-CQRS-Kafka\\SM-Post\\Post.Query\\Post.Query.Domain\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\User\\AppData\\Roaming\\NuGet\\NuGet.Config",

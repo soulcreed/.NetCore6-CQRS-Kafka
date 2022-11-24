@@ -1,0 +1,45 @@
+/home/sean/Source/.NET-Microservices-CQRS-Event-Sourcing-with-Kafka/SM-Post/Post.Common/bin/Debug/net6.0/Post.Common.deps.json
+/home/sean/Source/.NET-Microservices-CQRS-Event-Sourcing-with-Kafka/SM-Post/Post.Common/bin/Debug/net6.0/Post.Common.dll
+/home/sean/Source/.NET-Microservices-CQRS-Event-Sourcing-with-Kafka/SM-Post/Post.Common/bin/Debug/net6.0/ref/Post.Common.dll
+/home/sean/Source/.NET-Microservices-CQRS-Event-Sourcing-with-Kafka/SM-Post/Post.Common/bin/Debug/net6.0/Post.Common.pdb
+/home/sean/Source/.NET-Microservices-CQRS-Event-Sourcing-with-Kafka/SM-Post/Post.Common/bin/Debug/net6.0/CQRS.Core.dll
+/home/sean/Source/.NET-Microservices-CQRS-Event-Sourcing-with-Kafka/SM-Post/Post.Common/bin/Debug/net6.0/CQRS.Core.pdb
+/home/sean/Source/.NET-Microservices-CQRS-Event-Sourcing-with-Kafka/SM-Post/Post.Common/obj/Debug/net6.0/Post.Common.csproj.AssemblyReference.cache
+/home/sean/Source/.NET-Microservices-CQRS-Event-Sourcing-with-Kafka/SM-Post/Post.Common/obj/Debug/net6.0/Post.Common.GeneratedMSBuildEditorConfig.editorconfig
+/home/sean/Source/.NET-Microservices-CQRS-Event-Sourcing-with-Kafka/SM-Post/Post.Common/obj/Debug/net6.0/Post.Common.AssemblyInfoInputs.cache
+/home/sean/Source/.NET-Microservices-CQRS-Event-Sourcing-with-Kafka/SM-Post/Post.Common/obj/Debug/net6.0/Post.Common.AssemblyInfo.cs
+/home/sean/Source/.NET-Microservices-CQRS-Event-Sourcing-with-Kafka/SM-Post/Post.Common/obj/Debug/net6.0/Post.Common.csproj.CoreCompileInputs.cache
+/home/sean/Source/.NET-Microservices-CQRS-Event-Sourcing-with-Kafka/SM-Post/Post.Common/obj/Debug/net6.0/Post.Common.csproj.CopyComplete
+/home/sean/Source/.NET-Microservices-CQRS-Event-Sourcing-with-Kafka/SM-Post/Post.Common/obj/Debug/net6.0/Post.Common.dll
+/home/sean/Source/.NET-Microservices-CQRS-Event-Sourcing-with-Kafka/SM-Post/Post.Common/obj/Debug/net6.0/ref/Post.Common.dll
+/home/sean/Source/.NET-Microservices-CQRS-Event-Sourcing-with-Kafka/SM-Post/Post.Common/obj/Debug/net6.0/Post.Common.pdb
+/media/sean/Data Drive1/Courses/Instruct/CQRS & ES with .NET and Kafka/Section 11/IEventHandler/Code/SM-Post/Post.Common/bin/Debug/net6.0/Post.Common.deps.json
+/media/sean/Data Drive1/Courses/Instruct/CQRS & ES with .NET and Kafka/Section 11/IEventHandler/Code/SM-Post/Post.Common/bin/Debug/net6.0/Post.Common.dll
+/media/sean/Data Drive1/Courses/Instruct/CQRS & ES with .NET and Kafka/Section 11/IEventHandler/Code/SM-Post/Post.Common/bin/Debug/net6.0/ref/Post.Common.dll
+/media/sean/Data Drive1/Courses/Instruct/CQRS & ES with .NET and Kafka/Section 11/IEventHandler/Code/SM-Post/Post.Common/bin/Debug/net6.0/Post.Common.pdb
+/media/sean/Data Drive1/Courses/Instruct/CQRS & ES with .NET and Kafka/Section 11/IEventHandler/Code/SM-Post/Post.Common/bin/Debug/net6.0/CQRS.Core.dll
+/media/sean/Data Drive1/Courses/Instruct/CQRS & ES with .NET and Kafka/Section 11/IEventHandler/Code/SM-Post/Post.Common/bin/Debug/net6.0/CQRS.Core.pdb
+/media/sean/Data Drive1/Courses/Instruct/CQRS & ES with .NET and Kafka/Section 11/IEventHandler/Code/SM-Post/Post.Common/obj/Debug/net6.0/Post.Common.csproj.AssemblyReference.cache
+/media/sean/Data Drive1/Courses/Instruct/CQRS & ES with .NET and Kafka/Section 11/IEventHandler/Code/SM-Post/Post.Common/obj/Debug/net6.0/Post.Common.GeneratedMSBuildEditorConfig.editorconfig
+/media/sean/Data Drive1/Courses/Instruct/CQRS & ES with .NET and Kafka/Section 11/IEventHandler/Code/SM-Post/Post.Common/obj/Debug/net6.0/Post.Common.AssemblyInfoInputs.cache
+/media/sean/Data Drive1/Courses/Instruct/CQRS & ES with .NET and Kafka/Section 11/IEventHandler/Code/SM-Post/Post.Common/obj/Debug/net6.0/Post.Common.AssemblyInfo.cs
+/media/sean/Data Drive1/Courses/Instruct/CQRS & ES with .NET and Kafka/Section 11/IEventHandler/Code/SM-Post/Post.Common/obj/Debug/net6.0/Post.Common.csproj.CoreCompileInputs.cache
+/media/sean/Data Drive1/Courses/Instruct/CQRS & ES with .NET and Kafka/Section 11/IEventHandler/Code/SM-Post/Post.Common/obj/Debug/net6.0/Post.Common.csproj.CopyComplete
+/media/sean/Data Drive1/Courses/Instruct/CQRS & ES with .NET and Kafka/Section 11/IEventHandler/Code/SM-Post/Post.Common/obj/Debug/net6.0/Post.Common.dll
+/media/sean/Data Drive1/Courses/Instruct/CQRS & ES with .NET and Kafka/Section 11/IEventHandler/Code/SM-Post/Post.Common/obj/Debug/net6.0/ref/Post.Common.dll
+/media/sean/Data Drive1/Courses/Instruct/CQRS & ES with .NET and Kafka/Section 11/IEventHandler/Code/SM-Post/Post.Common/obj/Debug/net6.0/Post.Common.pdb
+C:\Workspace\Arq Pessoal\microservices cqrs 6\SM-Post\Post.Common\bin\Debug\net6.0\Post.Common.deps.json
+C:\Workspace\Arq Pessoal\microservices cqrs 6\SM-Post\Post.Common\bin\Debug\net6.0\Post.Common.dll
+C:\Workspace\Arq Pessoal\microservices cqrs 6\SM-Post\Post.Common\bin\Debug\net6.0\Post.Common.pdb
+C:\Workspace\Arq Pessoal\microservices cqrs 6\SM-Post\Post.Common\bin\Debug\net6.0\CQRS.Core.dll
+C:\Workspace\Arq Pessoal\microservices cqrs 6\SM-Post\Post.Common\bin\Debug\net6.0\CQRS.Core.pdb
+C:\Workspace\Arq Pessoal\microservices cqrs 6\SM-Post\Post.Common\obj\Debug\net6.0\Post.Common.csproj.AssemblyReference.cache
+C:\Workspace\Arq Pessoal\microservices cqrs 6\SM-Post\Post.Common\obj\Debug\net6.0\Post.Common.GeneratedMSBuildEditorConfig.editorconfig
+C:\Workspace\Arq Pessoal\microservices cqrs 6\SM-Post\Post.Common\obj\Debug\net6.0\Post.Common.AssemblyInfoInputs.cache
+C:\Workspace\Arq Pessoal\microservices cqrs 6\SM-Post\Post.Common\obj\Debug\net6.0\Post.Common.AssemblyInfo.cs
+C:\Workspace\Arq Pessoal\microservices cqrs 6\SM-Post\Post.Common\obj\Debug\net6.0\Post.Common.csproj.CoreCompileInputs.cache
+C:\Workspace\Arq Pessoal\microservices cqrs 6\SM-Post\Post.Common\obj\Debug\net6.0\Post.Common.csproj.CopyComplete
+C:\Workspace\Arq Pessoal\microservices cqrs 6\SM-Post\Post.Common\obj\Debug\net6.0\Post.Common.dll
+C:\Workspace\Arq Pessoal\microservices cqrs 6\SM-Post\Post.Common\obj\Debug\net6.0\refint\Post.Common.dll
+C:\Workspace\Arq Pessoal\microservices cqrs 6\SM-Post\Post.Common\obj\Debug\net6.0\Post.Common.pdb
+C:\Workspace\Arq Pessoal\microservices cqrs 6\SM-Post\Post.Common\obj\Debug\net6.0\ref\Post.Common.dll

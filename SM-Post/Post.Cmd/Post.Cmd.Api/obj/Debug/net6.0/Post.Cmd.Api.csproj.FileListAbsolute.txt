@@ -1,0 +1,222 @@
+/home/sean/Source/.NET-Microservices-CQRS-Event-Sourcing-with-Kafka/SM-Post/Post.Cmd/Post.Cmd.Api/bin/Debug/net6.0/appsettings.Development.json
+/home/sean/Source/.NET-Microservices-CQRS-Event-Sourcing-with-Kafka/SM-Post/Post.Cmd/Post.Cmd.Api/bin/Debug/net6.0/appsettings.json
+/home/sean/Source/.NET-Microservices-CQRS-Event-Sourcing-with-Kafka/SM-Post/Post.Cmd/Post.Cmd.Api/bin/Debug/net6.0/Post.Cmd.Api
+/home/sean/Source/.NET-Microservices-CQRS-Event-Sourcing-with-Kafka/SM-Post/Post.Cmd/Post.Cmd.Api/bin/Debug/net6.0/Post.Cmd.Api.deps.json
+/home/sean/Source/.NET-Microservices-CQRS-Event-Sourcing-with-Kafka/SM-Post/Post.Cmd/Post.Cmd.Api/bin/Debug/net6.0/Post.Cmd.Api.runtimeconfig.json
+/home/sean/Source/.NET-Microservices-CQRS-Event-Sourcing-with-Kafka/SM-Post/Post.Cmd/Post.Cmd.Api/bin/Debug/net6.0/Post.Cmd.Api.dll
+/home/sean/Source/.NET-Microservices-CQRS-Event-Sourcing-with-Kafka/SM-Post/Post.Cmd/Post.Cmd.Api/bin/Debug/net6.0/ref/Post.Cmd.Api.dll
+/home/sean/Source/.NET-Microservices-CQRS-Event-Sourcing-with-Kafka/SM-Post/Post.Cmd/Post.Cmd.Api/bin/Debug/net6.0/Post.Cmd.Api.pdb
+/home/sean/Source/.NET-Microservices-CQRS-Event-Sourcing-with-Kafka/SM-Post/Post.Cmd/Post.Cmd.Api/bin/Debug/net6.0/Confluent.Kafka.dll
+/home/sean/Source/.NET-Microservices-CQRS-Event-Sourcing-with-Kafka/SM-Post/Post.Cmd/Post.Cmd.Api/bin/Debug/net6.0/DnsClient.dll
+/home/sean/Source/.NET-Microservices-CQRS-Event-Sourcing-with-Kafka/SM-Post/Post.Cmd/Post.Cmd.Api/bin/Debug/net6.0/Microsoft.OpenApi.dll
+/home/sean/Source/.NET-Microservices-CQRS-Event-Sourcing-with-Kafka/SM-Post/Post.Cmd/Post.Cmd.Api/bin/Debug/net6.0/MongoDB.Bson.dll
+/home/sean/Source/.NET-Microservices-CQRS-Event-Sourcing-with-Kafka/SM-Post/Post.Cmd/Post.Cmd.Api/bin/Debug/net6.0/MongoDB.Driver.dll
+/home/sean/Source/.NET-Microservices-CQRS-Event-Sourcing-with-Kafka/SM-Post/Post.Cmd/Post.Cmd.Api/bin/Debug/net6.0/MongoDB.Driver.Core.dll
+/home/sean/Source/.NET-Microservices-CQRS-Event-Sourcing-with-Kafka/SM-Post/Post.Cmd/Post.Cmd.Api/bin/Debug/net6.0/MongoDB.Libmongocrypt.dll
+/home/sean/Source/.NET-Microservices-CQRS-Event-Sourcing-with-Kafka/SM-Post/Post.Cmd/Post.Cmd.Api/bin/Debug/net6.0/SharpCompress.dll
+/home/sean/Source/.NET-Microservices-CQRS-Event-Sourcing-with-Kafka/SM-Post/Post.Cmd/Post.Cmd.Api/bin/Debug/net6.0/Swashbuckle.AspNetCore.Swagger.dll
+/home/sean/Source/.NET-Microservices-CQRS-Event-Sourcing-with-Kafka/SM-Post/Post.Cmd/Post.Cmd.Api/bin/Debug/net6.0/Swashbuckle.AspNetCore.SwaggerGen.dll
+/home/sean/Source/.NET-Microservices-CQRS-Event-Sourcing-with-Kafka/SM-Post/Post.Cmd/Post.Cmd.Api/bin/Debug/net6.0/Swashbuckle.AspNetCore.SwaggerUI.dll
+/home/sean/Source/.NET-Microservices-CQRS-Event-Sourcing-with-Kafka/SM-Post/Post.Cmd/Post.Cmd.Api/bin/Debug/net6.0/runtimes/linux-arm64/native/librdkafka.so
+/home/sean/Source/.NET-Microservices-CQRS-Event-Sourcing-with-Kafka/SM-Post/Post.Cmd/Post.Cmd.Api/bin/Debug/net6.0/runtimes/linux-x64/native/alpine-librdkafka.so
+/home/sean/Source/.NET-Microservices-CQRS-Event-Sourcing-with-Kafka/SM-Post/Post.Cmd/Post.Cmd.Api/bin/Debug/net6.0/runtimes/linux-x64/native/centos6-librdkafka.so
+/home/sean/Source/.NET-Microservices-CQRS-Event-Sourcing-with-Kafka/SM-Post/Post.Cmd/Post.Cmd.Api/bin/Debug/net6.0/runtimes/linux-x64/native/centos7-librdkafka.so
+/home/sean/Source/.NET-Microservices-CQRS-Event-Sourcing-with-Kafka/SM-Post/Post.Cmd/Post.Cmd.Api/bin/Debug/net6.0/runtimes/linux-x64/native/librdkafka.so
+/home/sean/Source/.NET-Microservices-CQRS-Event-Sourcing-with-Kafka/SM-Post/Post.Cmd/Post.Cmd.Api/bin/Debug/net6.0/runtimes/osx-x64/native/librdkafka.dylib
+/home/sean/Source/.NET-Microservices-CQRS-Event-Sourcing-with-Kafka/SM-Post/Post.Cmd/Post.Cmd.Api/bin/Debug/net6.0/runtimes/win-x64/native/libcrypto-1_1-x64.dll
+/home/sean/Source/.NET-Microservices-CQRS-Event-Sourcing-with-Kafka/SM-Post/Post.Cmd/Post.Cmd.Api/bin/Debug/net6.0/runtimes/win-x64/native/librdkafka.dll
+/home/sean/Source/.NET-Microservices-CQRS-Event-Sourcing-with-Kafka/SM-Post/Post.Cmd/Post.Cmd.Api/bin/Debug/net6.0/runtimes/win-x64/native/librdkafkacpp.dll
+/home/sean/Source/.NET-Microservices-CQRS-Event-Sourcing-with-Kafka/SM-Post/Post.Cmd/Post.Cmd.Api/bin/Debug/net6.0/runtimes/win-x64/native/libssl-1_1-x64.dll
+/home/sean/Source/.NET-Microservices-CQRS-Event-Sourcing-with-Kafka/SM-Post/Post.Cmd/Post.Cmd.Api/bin/Debug/net6.0/runtimes/win-x64/native/msvcp140.dll
+/home/sean/Source/.NET-Microservices-CQRS-Event-Sourcing-with-Kafka/SM-Post/Post.Cmd/Post.Cmd.Api/bin/Debug/net6.0/runtimes/win-x64/native/vcruntime140.dll
+/home/sean/Source/.NET-Microservices-CQRS-Event-Sourcing-with-Kafka/SM-Post/Post.Cmd/Post.Cmd.Api/bin/Debug/net6.0/runtimes/win-x64/native/zlib1.dll
+/home/sean/Source/.NET-Microservices-CQRS-Event-Sourcing-with-Kafka/SM-Post/Post.Cmd/Post.Cmd.Api/bin/Debug/net6.0/runtimes/win-x64/native/zstd.dll
+/home/sean/Source/.NET-Microservices-CQRS-Event-Sourcing-with-Kafka/SM-Post/Post.Cmd/Post.Cmd.Api/bin/Debug/net6.0/runtimes/win-x86/native/libcrypto-1_1.dll
+/home/sean/Source/.NET-Microservices-CQRS-Event-Sourcing-with-Kafka/SM-Post/Post.Cmd/Post.Cmd.Api/bin/Debug/net6.0/runtimes/win-x86/native/librdkafka.dll
+/home/sean/Source/.NET-Microservices-CQRS-Event-Sourcing-with-Kafka/SM-Post/Post.Cmd/Post.Cmd.Api/bin/Debug/net6.0/runtimes/win-x86/native/librdkafkacpp.dll
+/home/sean/Source/.NET-Microservices-CQRS-Event-Sourcing-with-Kafka/SM-Post/Post.Cmd/Post.Cmd.Api/bin/Debug/net6.0/runtimes/win-x86/native/libssl-1_1.dll
+/home/sean/Source/.NET-Microservices-CQRS-Event-Sourcing-with-Kafka/SM-Post/Post.Cmd/Post.Cmd.Api/bin/Debug/net6.0/runtimes/win-x86/native/msvcp140.dll
+/home/sean/Source/.NET-Microservices-CQRS-Event-Sourcing-with-Kafka/SM-Post/Post.Cmd/Post.Cmd.Api/bin/Debug/net6.0/runtimes/win-x86/native/vcruntime140.dll
+/home/sean/Source/.NET-Microservices-CQRS-Event-Sourcing-with-Kafka/SM-Post/Post.Cmd/Post.Cmd.Api/bin/Debug/net6.0/runtimes/win-x86/native/zlib1.dll
+/home/sean/Source/.NET-Microservices-CQRS-Event-Sourcing-with-Kafka/SM-Post/Post.Cmd/Post.Cmd.Api/bin/Debug/net6.0/runtimes/win-x86/native/zstd.dll
+/home/sean/Source/.NET-Microservices-CQRS-Event-Sourcing-with-Kafka/SM-Post/Post.Cmd/Post.Cmd.Api/bin/Debug/net6.0/runtimes/linux/native/libsnappy64.so
+/home/sean/Source/.NET-Microservices-CQRS-Event-Sourcing-with-Kafka/SM-Post/Post.Cmd/Post.Cmd.Api/bin/Debug/net6.0/runtimes/linux/native/libzstd.so
+/home/sean/Source/.NET-Microservices-CQRS-Event-Sourcing-with-Kafka/SM-Post/Post.Cmd/Post.Cmd.Api/bin/Debug/net6.0/runtimes/osx/native/libsnappy64.dylib
+/home/sean/Source/.NET-Microservices-CQRS-Event-Sourcing-with-Kafka/SM-Post/Post.Cmd/Post.Cmd.Api/bin/Debug/net6.0/runtimes/osx/native/libzstd.dylib
+/home/sean/Source/.NET-Microservices-CQRS-Event-Sourcing-with-Kafka/SM-Post/Post.Cmd/Post.Cmd.Api/bin/Debug/net6.0/runtimes/win/native/libzstd.dll
+/home/sean/Source/.NET-Microservices-CQRS-Event-Sourcing-with-Kafka/SM-Post/Post.Cmd/Post.Cmd.Api/bin/Debug/net6.0/runtimes/win/native/snappy32.dll
+/home/sean/Source/.NET-Microservices-CQRS-Event-Sourcing-with-Kafka/SM-Post/Post.Cmd/Post.Cmd.Api/bin/Debug/net6.0/runtimes/win/native/snappy64.dll
+/home/sean/Source/.NET-Microservices-CQRS-Event-Sourcing-with-Kafka/SM-Post/Post.Cmd/Post.Cmd.Api/bin/Debug/net6.0/runtimes/linux/native/libmongocrypt.so
+/home/sean/Source/.NET-Microservices-CQRS-Event-Sourcing-with-Kafka/SM-Post/Post.Cmd/Post.Cmd.Api/bin/Debug/net6.0/runtimes/osx/native/libmongocrypt.dylib
+/home/sean/Source/.NET-Microservices-CQRS-Event-Sourcing-with-Kafka/SM-Post/Post.Cmd/Post.Cmd.Api/bin/Debug/net6.0/runtimes/win/native/mongocrypt.dll
+/home/sean/Source/.NET-Microservices-CQRS-Event-Sourcing-with-Kafka/SM-Post/Post.Cmd/Post.Cmd.Api/bin/Debug/net6.0/CQRS.Core.dll
+/home/sean/Source/.NET-Microservices-CQRS-Event-Sourcing-with-Kafka/SM-Post/Post.Cmd/Post.Cmd.Api/bin/Debug/net6.0/Post.Cmd.Domain.dll
+/home/sean/Source/.NET-Microservices-CQRS-Event-Sourcing-with-Kafka/SM-Post/Post.Cmd/Post.Cmd.Api/bin/Debug/net6.0/Post.Cmd.Infrastructure.dll
+/home/sean/Source/.NET-Microservices-CQRS-Event-Sourcing-with-Kafka/SM-Post/Post.Cmd/Post.Cmd.Api/bin/Debug/net6.0/Post.Common.dll
+/home/sean/Source/.NET-Microservices-CQRS-Event-Sourcing-with-Kafka/SM-Post/Post.Cmd/Post.Cmd.Api/bin/Debug/net6.0/Post.Cmd.Domain.pdb
+/home/sean/Source/.NET-Microservices-CQRS-Event-Sourcing-with-Kafka/SM-Post/Post.Cmd/Post.Cmd.Api/bin/Debug/net6.0/Post.Cmd.Infrastructure.pdb
+/home/sean/Source/.NET-Microservices-CQRS-Event-Sourcing-with-Kafka/SM-Post/Post.Cmd/Post.Cmd.Api/bin/Debug/net6.0/Post.Common.pdb
+/home/sean/Source/.NET-Microservices-CQRS-Event-Sourcing-with-Kafka/SM-Post/Post.Cmd/Post.Cmd.Api/bin/Debug/net6.0/CQRS.Core.pdb
+/home/sean/Source/.NET-Microservices-CQRS-Event-Sourcing-with-Kafka/SM-Post/Post.Cmd/Post.Cmd.Api/obj/Debug/net6.0/Post.Cmd.Api.csproj.AssemblyReference.cache
+/home/sean/Source/.NET-Microservices-CQRS-Event-Sourcing-with-Kafka/SM-Post/Post.Cmd/Post.Cmd.Api/obj/Debug/net6.0/Post.Cmd.Api.GeneratedMSBuildEditorConfig.editorconfig
+/home/sean/Source/.NET-Microservices-CQRS-Event-Sourcing-with-Kafka/SM-Post/Post.Cmd/Post.Cmd.Api/obj/Debug/net6.0/Post.Cmd.Api.AssemblyInfoInputs.cache
+/home/sean/Source/.NET-Microservices-CQRS-Event-Sourcing-with-Kafka/SM-Post/Post.Cmd/Post.Cmd.Api/obj/Debug/net6.0/Post.Cmd.Api.AssemblyInfo.cs
+/home/sean/Source/.NET-Microservices-CQRS-Event-Sourcing-with-Kafka/SM-Post/Post.Cmd/Post.Cmd.Api/obj/Debug/net6.0/Post.Cmd.Api.csproj.CoreCompileInputs.cache
+/home/sean/Source/.NET-Microservices-CQRS-Event-Sourcing-with-Kafka/SM-Post/Post.Cmd/Post.Cmd.Api/obj/Debug/net6.0/Post.Cmd.Api.MvcApplicationPartsAssemblyInfo.cs
+/home/sean/Source/.NET-Microservices-CQRS-Event-Sourcing-with-Kafka/SM-Post/Post.Cmd/Post.Cmd.Api/obj/Debug/net6.0/Post.Cmd.Api.MvcApplicationPartsAssemblyInfo.cache
+/home/sean/Source/.NET-Microservices-CQRS-Event-Sourcing-with-Kafka/SM-Post/Post.Cmd/Post.Cmd.Api/obj/Debug/net6.0/staticwebassets.build.json
+/home/sean/Source/.NET-Microservices-CQRS-Event-Sourcing-with-Kafka/SM-Post/Post.Cmd/Post.Cmd.Api/obj/Debug/net6.0/staticwebassets.development.json
+/home/sean/Source/.NET-Microservices-CQRS-Event-Sourcing-with-Kafka/SM-Post/Post.Cmd/Post.Cmd.Api/obj/Debug/net6.0/scopedcss/bundle/Post.Cmd.Api.styles.css
+/home/sean/Source/.NET-Microservices-CQRS-Event-Sourcing-with-Kafka/SM-Post/Post.Cmd/Post.Cmd.Api/obj/Debug/net6.0/Post.Cmd.Api.csproj.CopyComplete
+/home/sean/Source/.NET-Microservices-CQRS-Event-Sourcing-with-Kafka/SM-Post/Post.Cmd/Post.Cmd.Api/obj/Debug/net6.0/Post.Cmd.Api.dll
+/home/sean/Source/.NET-Microservices-CQRS-Event-Sourcing-with-Kafka/SM-Post/Post.Cmd/Post.Cmd.Api/obj/Debug/net6.0/ref/Post.Cmd.Api.dll
+/home/sean/Source/.NET-Microservices-CQRS-Event-Sourcing-with-Kafka/SM-Post/Post.Cmd/Post.Cmd.Api/obj/Debug/net6.0/Post.Cmd.Api.pdb
+/home/sean/Source/.NET-Microservices-CQRS-Event-Sourcing-with-Kafka/SM-Post/Post.Cmd/Post.Cmd.Api/obj/Debug/net6.0/Post.Cmd.Api.genruntimeconfig.cache
+/media/sean/Data Drive1/Courses/Instruct/CQRS & ES with .NET and Kafka/Section 11/IEventHandler/Code/SM-Post/Post.Cmd/Post.Cmd.Api/bin/Debug/net6.0/appsettings.Development.json
+/media/sean/Data Drive1/Courses/Instruct/CQRS & ES with .NET and Kafka/Section 11/IEventHandler/Code/SM-Post/Post.Cmd/Post.Cmd.Api/bin/Debug/net6.0/appsettings.json
+/media/sean/Data Drive1/Courses/Instruct/CQRS & ES with .NET and Kafka/Section 11/IEventHandler/Code/SM-Post/Post.Cmd/Post.Cmd.Api/bin/Debug/net6.0/Post.Cmd.Api
+/media/sean/Data Drive1/Courses/Instruct/CQRS & ES with .NET and Kafka/Section 11/IEventHandler/Code/SM-Post/Post.Cmd/Post.Cmd.Api/bin/Debug/net6.0/Post.Cmd.Api.deps.json
+/media/sean/Data Drive1/Courses/Instruct/CQRS & ES with .NET and Kafka/Section 11/IEventHandler/Code/SM-Post/Post.Cmd/Post.Cmd.Api/bin/Debug/net6.0/Post.Cmd.Api.runtimeconfig.json
+/media/sean/Data Drive1/Courses/Instruct/CQRS & ES with .NET and Kafka/Section 11/IEventHandler/Code/SM-Post/Post.Cmd/Post.Cmd.Api/bin/Debug/net6.0/Post.Cmd.Api.dll
+/media/sean/Data Drive1/Courses/Instruct/CQRS & ES with .NET and Kafka/Section 11/IEventHandler/Code/SM-Post/Post.Cmd/Post.Cmd.Api/bin/Debug/net6.0/ref/Post.Cmd.Api.dll
+/media/sean/Data Drive1/Courses/Instruct/CQRS & ES with .NET and Kafka/Section 11/IEventHandler/Code/SM-Post/Post.Cmd/Post.Cmd.Api/bin/Debug/net6.0/Post.Cmd.Api.pdb
+/media/sean/Data Drive1/Courses/Instruct/CQRS & ES with .NET and Kafka/Section 11/IEventHandler/Code/SM-Post/Post.Cmd/Post.Cmd.Api/bin/Debug/net6.0/Confluent.Kafka.dll
+/media/sean/Data Drive1/Courses/Instruct/CQRS & ES with .NET and Kafka/Section 11/IEventHandler/Code/SM-Post/Post.Cmd/Post.Cmd.Api/bin/Debug/net6.0/DnsClient.dll
+/media/sean/Data Drive1/Courses/Instruct/CQRS & ES with .NET and Kafka/Section 11/IEventHandler/Code/SM-Post/Post.Cmd/Post.Cmd.Api/bin/Debug/net6.0/Microsoft.OpenApi.dll
+/media/sean/Data Drive1/Courses/Instruct/CQRS & ES with .NET and Kafka/Section 11/IEventHandler/Code/SM-Post/Post.Cmd/Post.Cmd.Api/bin/Debug/net6.0/MongoDB.Bson.dll
+/media/sean/Data Drive1/Courses/Instruct/CQRS & ES with .NET and Kafka/Section 11/IEventHandler/Code/SM-Post/Post.Cmd/Post.Cmd.Api/bin/Debug/net6.0/MongoDB.Driver.dll
+/media/sean/Data Drive1/Courses/Instruct/CQRS & ES with .NET and Kafka/Section 11/IEventHandler/Code/SM-Post/Post.Cmd/Post.Cmd.Api/bin/Debug/net6.0/MongoDB.Driver.Core.dll
+/media/sean/Data Drive1/Courses/Instruct/CQRS & ES with .NET and Kafka/Section 11/IEventHandler/Code/SM-Post/Post.Cmd/Post.Cmd.Api/bin/Debug/net6.0/MongoDB.Libmongocrypt.dll
+/media/sean/Data Drive1/Courses/Instruct/CQRS & ES with .NET and Kafka/Section 11/IEventHandler/Code/SM-Post/Post.Cmd/Post.Cmd.Api/bin/Debug/net6.0/SharpCompress.dll
+/media/sean/Data Drive1/Courses/Instruct/CQRS & ES with .NET and Kafka/Section 11/IEventHandler/Code/SM-Post/Post.Cmd/Post.Cmd.Api/bin/Debug/net6.0/Swashbuckle.AspNetCore.Swagger.dll
+/media/sean/Data Drive1/Courses/Instruct/CQRS & ES with .NET and Kafka/Section 11/IEventHandler/Code/SM-Post/Post.Cmd/Post.Cmd.Api/bin/Debug/net6.0/Swashbuckle.AspNetCore.SwaggerGen.dll
+/media/sean/Data Drive1/Courses/Instruct/CQRS & ES with .NET and Kafka/Section 11/IEventHandler/Code/SM-Post/Post.Cmd/Post.Cmd.Api/bin/Debug/net6.0/Swashbuckle.AspNetCore.SwaggerUI.dll
+/media/sean/Data Drive1/Courses/Instruct/CQRS & ES with .NET and Kafka/Section 11/IEventHandler/Code/SM-Post/Post.Cmd/Post.Cmd.Api/bin/Debug/net6.0/runtimes/linux-arm64/native/librdkafka.so
+/media/sean/Data Drive1/Courses/Instruct/CQRS & ES with .NET and Kafka/Section 11/IEventHandler/Code/SM-Post/Post.Cmd/Post.Cmd.Api/bin/Debug/net6.0/runtimes/linux-x64/native/alpine-librdkafka.so
+/media/sean/Data Drive1/Courses/Instruct/CQRS & ES with .NET and Kafka/Section 11/IEventHandler/Code/SM-Post/Post.Cmd/Post.Cmd.Api/bin/Debug/net6.0/runtimes/linux-x64/native/centos6-librdkafka.so
+/media/sean/Data Drive1/Courses/Instruct/CQRS & ES with .NET and Kafka/Section 11/IEventHandler/Code/SM-Post/Post.Cmd/Post.Cmd.Api/bin/Debug/net6.0/runtimes/linux-x64/native/centos7-librdkafka.so
+/media/sean/Data Drive1/Courses/Instruct/CQRS & ES with .NET and Kafka/Section 11/IEventHandler/Code/SM-Post/Post.Cmd/Post.Cmd.Api/bin/Debug/net6.0/runtimes/linux-x64/native/librdkafka.so
+/media/sean/Data Drive1/Courses/Instruct/CQRS & ES with .NET and Kafka/Section 11/IEventHandler/Code/SM-Post/Post.Cmd/Post.Cmd.Api/bin/Debug/net6.0/runtimes/osx-x64/native/librdkafka.dylib
+/media/sean/Data Drive1/Courses/Instruct/CQRS & ES with .NET and Kafka/Section 11/IEventHandler/Code/SM-Post/Post.Cmd/Post.Cmd.Api/bin/Debug/net6.0/runtimes/win-x64/native/libcrypto-1_1-x64.dll
+/media/sean/Data Drive1/Courses/Instruct/CQRS & ES with .NET and Kafka/Section 11/IEventHandler/Code/SM-Post/Post.Cmd/Post.Cmd.Api/bin/Debug/net6.0/runtimes/win-x64/native/librdkafka.dll
+/media/sean/Data Drive1/Courses/Instruct/CQRS & ES with .NET and Kafka/Section 11/IEventHandler/Code/SM-Post/Post.Cmd/Post.Cmd.Api/bin/Debug/net6.0/runtimes/win-x64/native/librdkafkacpp.dll
+/media/sean/Data Drive1/Courses/Instruct/CQRS & ES with .NET and Kafka/Section 11/IEventHandler/Code/SM-Post/Post.Cmd/Post.Cmd.Api/bin/Debug/net6.0/runtimes/win-x64/native/libssl-1_1-x64.dll
+/media/sean/Data Drive1/Courses/Instruct/CQRS & ES with .NET and Kafka/Section 11/IEventHandler/Code/SM-Post/Post.Cmd/Post.Cmd.Api/bin/Debug/net6.0/runtimes/win-x64/native/msvcp140.dll
+/media/sean/Data Drive1/Courses/Instruct/CQRS & ES with .NET and Kafka/Section 11/IEventHandler/Code/SM-Post/Post.Cmd/Post.Cmd.Api/bin/Debug/net6.0/runtimes/win-x64/native/vcruntime140.dll
+/media/sean/Data Drive1/Courses/Instruct/CQRS & ES with .NET and Kafka/Section 11/IEventHandler/Code/SM-Post/Post.Cmd/Post.Cmd.Api/bin/Debug/net6.0/runtimes/win-x64/native/zlib1.dll
+/media/sean/Data Drive1/Courses/Instruct/CQRS & ES with .NET and Kafka/Section 11/IEventHandler/Code/SM-Post/Post.Cmd/Post.Cmd.Api/bin/Debug/net6.0/runtimes/win-x64/native/zstd.dll
+/media/sean/Data Drive1/Courses/Instruct/CQRS & ES with .NET and Kafka/Section 11/IEventHandler/Code/SM-Post/Post.Cmd/Post.Cmd.Api/bin/Debug/net6.0/runtimes/win-x86/native/libcrypto-1_1.dll
+/media/sean/Data Drive1/Courses/Instruct/CQRS & ES with .NET and Kafka/Section 11/IEventHandler/Code/SM-Post/Post.Cmd/Post.Cmd.Api/bin/Debug/net6.0/runtimes/win-x86/native/librdkafka.dll
+/media/sean/Data Drive1/Courses/Instruct/CQRS & ES with .NET and Kafka/Section 11/IEventHandler/Code/SM-Post/Post.Cmd/Post.Cmd.Api/bin/Debug/net6.0/runtimes/win-x86/native/librdkafkacpp.dll
+/media/sean/Data Drive1/Courses/Instruct/CQRS & ES with .NET and Kafka/Section 11/IEventHandler/Code/SM-Post/Post.Cmd/Post.Cmd.Api/bin/Debug/net6.0/runtimes/win-x86/native/libssl-1_1.dll
+/media/sean/Data Drive1/Courses/Instruct/CQRS & ES with .NET and Kafka/Section 11/IEventHandler/Code/SM-Post/Post.Cmd/Post.Cmd.Api/bin/Debug/net6.0/runtimes/win-x86/native/msvcp140.dll
+/media/sean/Data Drive1/Courses/Instruct/CQRS & ES with .NET and Kafka/Section 11/IEventHandler/Code/SM-Post/Post.Cmd/Post.Cmd.Api/bin/Debug/net6.0/runtimes/win-x86/native/vcruntime140.dll
+/media/sean/Data Drive1/Courses/Instruct/CQRS & ES with .NET and Kafka/Section 11/IEventHandler/Code/SM-Post/Post.Cmd/Post.Cmd.Api/bin/Debug/net6.0/runtimes/win-x86/native/zlib1.dll
+/media/sean/Data Drive1/Courses/Instruct/CQRS & ES with .NET and Kafka/Section 11/IEventHandler/Code/SM-Post/Post.Cmd/Post.Cmd.Api/bin/Debug/net6.0/runtimes/win-x86/native/zstd.dll
+/media/sean/Data Drive1/Courses/Instruct/CQRS & ES with .NET and Kafka/Section 11/IEventHandler/Code/SM-Post/Post.Cmd/Post.Cmd.Api/bin/Debug/net6.0/runtimes/linux/native/libsnappy64.so
+/media/sean/Data Drive1/Courses/Instruct/CQRS & ES with .NET and Kafka/Section 11/IEventHandler/Code/SM-Post/Post.Cmd/Post.Cmd.Api/bin/Debug/net6.0/runtimes/linux/native/libzstd.so
+/media/sean/Data Drive1/Courses/Instruct/CQRS & ES with .NET and Kafka/Section 11/IEventHandler/Code/SM-Post/Post.Cmd/Post.Cmd.Api/bin/Debug/net6.0/runtimes/osx/native/libsnappy64.dylib
+/media/sean/Data Drive1/Courses/Instruct/CQRS & ES with .NET and Kafka/Section 11/IEventHandler/Code/SM-Post/Post.Cmd/Post.Cmd.Api/bin/Debug/net6.0/runtimes/osx/native/libzstd.dylib
+/media/sean/Data Drive1/Courses/Instruct/CQRS & ES with .NET and Kafka/Section 11/IEventHandler/Code/SM-Post/Post.Cmd/Post.Cmd.Api/bin/Debug/net6.0/runtimes/win/native/libzstd.dll
+/media/sean/Data Drive1/Courses/Instruct/CQRS & ES with .NET and Kafka/Section 11/IEventHandler/Code/SM-Post/Post.Cmd/Post.Cmd.Api/bin/Debug/net6.0/runtimes/win/native/snappy32.dll
+/media/sean/Data Drive1/Courses/Instruct/CQRS & ES with .NET and Kafka/Section 11/IEventHandler/Code/SM-Post/Post.Cmd/Post.Cmd.Api/bin/Debug/net6.0/runtimes/win/native/snappy64.dll
+/media/sean/Data Drive1/Courses/Instruct/CQRS & ES with .NET and Kafka/Section 11/IEventHandler/Code/SM-Post/Post.Cmd/Post.Cmd.Api/bin/Debug/net6.0/runtimes/linux/native/libmongocrypt.so
+/media/sean/Data Drive1/Courses/Instruct/CQRS & ES with .NET and Kafka/Section 11/IEventHandler/Code/SM-Post/Post.Cmd/Post.Cmd.Api/bin/Debug/net6.0/runtimes/osx/native/libmongocrypt.dylib
+/media/sean/Data Drive1/Courses/Instruct/CQRS & ES with .NET and Kafka/Section 11/IEventHandler/Code/SM-Post/Post.Cmd/Post.Cmd.Api/bin/Debug/net6.0/runtimes/win/native/mongocrypt.dll
+/media/sean/Data Drive1/Courses/Instruct/CQRS & ES with .NET and Kafka/Section 11/IEventHandler/Code/SM-Post/Post.Cmd/Post.Cmd.Api/bin/Debug/net6.0/CQRS.Core.dll
+/media/sean/Data Drive1/Courses/Instruct/CQRS & ES with .NET and Kafka/Section 11/IEventHandler/Code/SM-Post/Post.Cmd/Post.Cmd.Api/bin/Debug/net6.0/Post.Cmd.Domain.dll
+/media/sean/Data Drive1/Courses/Instruct/CQRS & ES with .NET and Kafka/Section 11/IEventHandler/Code/SM-Post/Post.Cmd/Post.Cmd.Api/bin/Debug/net6.0/Post.Cmd.Infrastructure.dll
+/media/sean/Data Drive1/Courses/Instruct/CQRS & ES with .NET and Kafka/Section 11/IEventHandler/Code/SM-Post/Post.Cmd/Post.Cmd.Api/bin/Debug/net6.0/Post.Common.dll
+/media/sean/Data Drive1/Courses/Instruct/CQRS & ES with .NET and Kafka/Section 11/IEventHandler/Code/SM-Post/Post.Cmd/Post.Cmd.Api/bin/Debug/net6.0/Post.Cmd.Domain.pdb
+/media/sean/Data Drive1/Courses/Instruct/CQRS & ES with .NET and Kafka/Section 11/IEventHandler/Code/SM-Post/Post.Cmd/Post.Cmd.Api/bin/Debug/net6.0/Post.Cmd.Infrastructure.pdb
+/media/sean/Data Drive1/Courses/Instruct/CQRS & ES with .NET and Kafka/Section 11/IEventHandler/Code/SM-Post/Post.Cmd/Post.Cmd.Api/bin/Debug/net6.0/Post.Common.pdb
+/media/sean/Data Drive1/Courses/Instruct/CQRS & ES with .NET and Kafka/Section 11/IEventHandler/Code/SM-Post/Post.Cmd/Post.Cmd.Api/bin/Debug/net6.0/CQRS.Core.pdb
+/media/sean/Data Drive1/Courses/Instruct/CQRS & ES with .NET and Kafka/Section 11/IEventHandler/Code/SM-Post/Post.Cmd/Post.Cmd.Api/obj/Debug/net6.0/Post.Cmd.Api.csproj.AssemblyReference.cache
+/media/sean/Data Drive1/Courses/Instruct/CQRS & ES with .NET and Kafka/Section 11/IEventHandler/Code/SM-Post/Post.Cmd/Post.Cmd.Api/obj/Debug/net6.0/Post.Cmd.Api.GeneratedMSBuildEditorConfig.editorconfig
+/media/sean/Data Drive1/Courses/Instruct/CQRS & ES with .NET and Kafka/Section 11/IEventHandler/Code/SM-Post/Post.Cmd/Post.Cmd.Api/obj/Debug/net6.0/Post.Cmd.Api.AssemblyInfoInputs.cache
+/media/sean/Data Drive1/Courses/Instruct/CQRS & ES with .NET and Kafka/Section 11/IEventHandler/Code/SM-Post/Post.Cmd/Post.Cmd.Api/obj/Debug/net6.0/Post.Cmd.Api.AssemblyInfo.cs
+/media/sean/Data Drive1/Courses/Instruct/CQRS & ES with .NET and Kafka/Section 11/IEventHandler/Code/SM-Post/Post.Cmd/Post.Cmd.Api/obj/Debug/net6.0/Post.Cmd.Api.csproj.CoreCompileInputs.cache
+/media/sean/Data Drive1/Courses/Instruct/CQRS & ES with .NET and Kafka/Section 11/IEventHandler/Code/SM-Post/Post.Cmd/Post.Cmd.Api/obj/Debug/net6.0/Post.Cmd.Api.MvcApplicationPartsAssemblyInfo.cs
+/media/sean/Data Drive1/Courses/Instruct/CQRS & ES with .NET and Kafka/Section 11/IEventHandler/Code/SM-Post/Post.Cmd/Post.Cmd.Api/obj/Debug/net6.0/Post.Cmd.Api.MvcApplicationPartsAssemblyInfo.cache
+/media/sean/Data Drive1/Courses/Instruct/CQRS & ES with .NET and Kafka/Section 11/IEventHandler/Code/SM-Post/Post.Cmd/Post.Cmd.Api/obj/Debug/net6.0/staticwebassets.build.json
+/media/sean/Data Drive1/Courses/Instruct/CQRS & ES with .NET and Kafka/Section 11/IEventHandler/Code/SM-Post/Post.Cmd/Post.Cmd.Api/obj/Debug/net6.0/staticwebassets.development.json
+/media/sean/Data Drive1/Courses/Instruct/CQRS & ES with .NET and Kafka/Section 11/IEventHandler/Code/SM-Post/Post.Cmd/Post.Cmd.Api/obj/Debug/net6.0/scopedcss/bundle/Post.Cmd.Api.styles.css
+/media/sean/Data Drive1/Courses/Instruct/CQRS & ES with .NET and Kafka/Section 11/IEventHandler/Code/SM-Post/Post.Cmd/Post.Cmd.Api/obj/Debug/net6.0/Post.Cmd.Api.csproj.CopyComplete
+/media/sean/Data Drive1/Courses/Instruct/CQRS & ES with .NET and Kafka/Section 11/IEventHandler/Code/SM-Post/Post.Cmd/Post.Cmd.Api/obj/Debug/net6.0/Post.Cmd.Api.dll
+/media/sean/Data Drive1/Courses/Instruct/CQRS & ES with .NET and Kafka/Section 11/IEventHandler/Code/SM-Post/Post.Cmd/Post.Cmd.Api/obj/Debug/net6.0/ref/Post.Cmd.Api.dll
+/media/sean/Data Drive1/Courses/Instruct/CQRS & ES with .NET and Kafka/Section 11/IEventHandler/Code/SM-Post/Post.Cmd/Post.Cmd.Api/obj/Debug/net6.0/Post.Cmd.Api.pdb
+/media/sean/Data Drive1/Courses/Instruct/CQRS & ES with .NET and Kafka/Section 11/IEventHandler/Code/SM-Post/Post.Cmd/Post.Cmd.Api/obj/Debug/net6.0/Post.Cmd.Api.genruntimeconfig.cache
+C:\Workspace\Arq Pessoal\microservices cqrs 6\SM-Post\Post.Cmd\Post.Cmd.Api\bin\Debug\net6.0\appsettings.Development.json
+C:\Workspace\Arq Pessoal\microservices cqrs 6\SM-Post\Post.Cmd\Post.Cmd.Api\bin\Debug\net6.0\appsettings.json
+C:\Workspace\Arq Pessoal\microservices cqrs 6\SM-Post\Post.Cmd\Post.Cmd.Api\bin\Debug\net6.0\Post.Cmd.Api.exe
+C:\Workspace\Arq Pessoal\microservices cqrs 6\SM-Post\Post.Cmd\Post.Cmd.Api\bin\Debug\net6.0\Post.Cmd.Api.deps.json
+C:\Workspace\Arq Pessoal\microservices cqrs 6\SM-Post\Post.Cmd\Post.Cmd.Api\bin\Debug\net6.0\Post.Cmd.Api.runtimeconfig.json
+C:\Workspace\Arq Pessoal\microservices cqrs 6\SM-Post\Post.Cmd\Post.Cmd.Api\bin\Debug\net6.0\Post.Cmd.Api.dll
+C:\Workspace\Arq Pessoal\microservices cqrs 6\SM-Post\Post.Cmd\Post.Cmd.Api\bin\Debug\net6.0\Post.Cmd.Api.pdb
+C:\Workspace\Arq Pessoal\microservices cqrs 6\SM-Post\Post.Cmd\Post.Cmd.Api\bin\Debug\net6.0\Confluent.Kafka.dll
+C:\Workspace\Arq Pessoal\microservices cqrs 6\SM-Post\Post.Cmd\Post.Cmd.Api\bin\Debug\net6.0\DnsClient.dll
+C:\Workspace\Arq Pessoal\microservices cqrs 6\SM-Post\Post.Cmd\Post.Cmd.Api\bin\Debug\net6.0\Microsoft.OpenApi.dll
+C:\Workspace\Arq Pessoal\microservices cqrs 6\SM-Post\Post.Cmd\Post.Cmd.Api\bin\Debug\net6.0\MongoDB.Bson.dll
+C:\Workspace\Arq Pessoal\microservices cqrs 6\SM-Post\Post.Cmd\Post.Cmd.Api\bin\Debug\net6.0\MongoDB.Driver.dll
+C:\Workspace\Arq Pessoal\microservices cqrs 6\SM-Post\Post.Cmd\Post.Cmd.Api\bin\Debug\net6.0\MongoDB.Driver.Core.dll
+C:\Workspace\Arq Pessoal\microservices cqrs 6\SM-Post\Post.Cmd\Post.Cmd.Api\bin\Debug\net6.0\MongoDB.Libmongocrypt.dll
+C:\Workspace\Arq Pessoal\microservices cqrs 6\SM-Post\Post.Cmd\Post.Cmd.Api\bin\Debug\net6.0\SharpCompress.dll
+C:\Workspace\Arq Pessoal\microservices cqrs 6\SM-Post\Post.Cmd\Post.Cmd.Api\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Workspace\Arq Pessoal\microservices cqrs 6\SM-Post\Post.Cmd\Post.Cmd.Api\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Workspace\Arq Pessoal\microservices cqrs 6\SM-Post\Post.Cmd\Post.Cmd.Api\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Workspace\Arq Pessoal\microservices cqrs 6\SM-Post\Post.Cmd\Post.Cmd.Api\bin\Debug\net6.0\runtimes\linux-arm64\native\librdkafka.so
+C:\Workspace\Arq Pessoal\microservices cqrs 6\SM-Post\Post.Cmd\Post.Cmd.Api\bin\Debug\net6.0\runtimes\linux-x64\native\alpine-librdkafka.so
+C:\Workspace\Arq Pessoal\microservices cqrs 6\SM-Post\Post.Cmd\Post.Cmd.Api\bin\Debug\net6.0\runtimes\linux-x64\native\centos6-librdkafka.so
+C:\Workspace\Arq Pessoal\microservices cqrs 6\SM-Post\Post.Cmd\Post.Cmd.Api\bin\Debug\net6.0\runtimes\linux-x64\native\centos7-librdkafka.so
+C:\Workspace\Arq Pessoal\microservices cqrs 6\SM-Post\Post.Cmd\Post.Cmd.Api\bin\Debug\net6.0\runtimes\linux-x64\native\librdkafka.so
+C:\Workspace\Arq Pessoal\microservices cqrs 6\SM-Post\Post.Cmd\Post.Cmd.Api\bin\Debug\net6.0\runtimes\osx-x64\native\librdkafka.dylib
+C:\Workspace\Arq Pessoal\microservices cqrs 6\SM-Post\Post.Cmd\Post.Cmd.Api\bin\Debug\net6.0\runtimes\win-x64\native\libcrypto-1_1-x64.dll
+C:\Workspace\Arq Pessoal\microservices cqrs 6\SM-Post\Post.Cmd\Post.Cmd.Api\bin\Debug\net6.0\runtimes\win-x64\native\librdkafka.dll
+C:\Workspace\Arq Pessoal\microservices cqrs 6\SM-Post\Post.Cmd\Post.Cmd.Api\bin\Debug\net6.0\runtimes\win-x64\native\librdkafkacpp.dll
+C:\Workspace\Arq Pessoal\microservices cqrs 6\SM-Post\Post.Cmd\Post.Cmd.Api\bin\Debug\net6.0\runtimes\win-x64\native\libssl-1_1-x64.dll
+C:\Workspace\Arq Pessoal\microservices cqrs 6\SM-Post\Post.Cmd\Post.Cmd.Api\bin\Debug\net6.0\runtimes\win-x64\native\msvcp140.dll
+C:\Workspace\Arq Pessoal\microservices cqrs 6\SM-Post\Post.Cmd\Post.Cmd.Api\bin\Debug\net6.0\runtimes\win-x64\native\vcruntime140.dll
+C:\Workspace\Arq Pessoal\microservices cqrs 6\SM-Post\Post.Cmd\Post.Cmd.Api\bin\Debug\net6.0\runtimes\win-x64\native\zlib1.dll
+C:\Workspace\Arq Pessoal\microservices cqrs 6\SM-Post\Post.Cmd\Post.Cmd.Api\bin\Debug\net6.0\runtimes\win-x64\native\zstd.dll
+C:\Workspace\Arq Pessoal\microservices cqrs 6\SM-Post\Post.Cmd\Post.Cmd.Api\bin\Debug\net6.0\runtimes\win-x86\native\libcrypto-1_1.dll
+C:\Workspace\Arq Pessoal\microservices cqrs 6\SM-Post\Post.Cmd\Post.Cmd.Api\bin\Debug\net6.0\runtimes\win-x86\native\librdkafka.dll
+C:\Workspace\Arq Pessoal\microservices cqrs 6\SM-Post\Post.Cmd\Post.Cmd.Api\bin\Debug\net6.0\runtimes\win-x86\native\librdkafkacpp.dll
+C:\Workspace\Arq Pessoal\microservices cqrs 6\SM-Post\Post.Cmd\Post.Cmd.Api\bin\Debug\net6.0\runtimes\win-x86\native\libssl-1_1.dll
+C:\Workspace\Arq Pessoal\microservices cqrs 6\SM-Post\Post.Cmd\Post.Cmd.Api\bin\Debug\net6.0\runtimes\win-x86\native\msvcp140.dll
+C:\Workspace\Arq Pessoal\microservices cqrs 6\SM-Post\Post.Cmd\Post.Cmd.Api\bin\Debug\net6.0\runtimes\win-x86\native\vcruntime140.dll
+C:\Workspace\Arq Pessoal\microservices cqrs 6\SM-Post\Post.Cmd\Post.Cmd.Api\bin\Debug\net6.0\runtimes\win-x86\native\zlib1.dll
+C:\Workspace\Arq Pessoal\microservices cqrs 6\SM-Post\Post.Cmd\Post.Cmd.Api\bin\Debug\net6.0\runtimes\win-x86\native\zstd.dll
+C:\Workspace\Arq Pessoal\microservices cqrs 6\SM-Post\Post.Cmd\Post.Cmd.Api\bin\Debug\net6.0\runtimes\linux\native\libsnappy64.so
+C:\Workspace\Arq Pessoal\microservices cqrs 6\SM-Post\Post.Cmd\Post.Cmd.Api\bin\Debug\net6.0\runtimes\linux\native\libzstd.so
+C:\Workspace\Arq Pessoal\microservices cqrs 6\SM-Post\Post.Cmd\Post.Cmd.Api\bin\Debug\net6.0\runtimes\osx\native\libsnappy64.dylib
+C:\Workspace\Arq Pessoal\microservices cqrs 6\SM-Post\Post.Cmd\Post.Cmd.Api\bin\Debug\net6.0\runtimes\osx\native\libzstd.dylib
+C:\Workspace\Arq Pessoal\microservices cqrs 6\SM-Post\Post.Cmd\Post.Cmd.Api\bin\Debug\net6.0\runtimes\win\native\libzstd.dll
+C:\Workspace\Arq Pessoal\microservices cqrs 6\SM-Post\Post.Cmd\Post.Cmd.Api\bin\Debug\net6.0\runtimes\win\native\snappy32.dll
+C:\Workspace\Arq Pessoal\microservices cqrs 6\SM-Post\Post.Cmd\Post.Cmd.Api\bin\Debug\net6.0\runtimes\win\native\snappy64.dll
+C:\Workspace\Arq Pessoal\microservices cqrs 6\SM-Post\Post.Cmd\Post.Cmd.Api\bin\Debug\net6.0\runtimes\linux\native\libmongocrypt.so
+C:\Workspace\Arq Pessoal\microservices cqrs 6\SM-Post\Post.Cmd\Post.Cmd.Api\bin\Debug\net6.0\runtimes\osx\native\libmongocrypt.dylib
+C:\Workspace\Arq Pessoal\microservices cqrs 6\SM-Post\Post.Cmd\Post.Cmd.Api\bin\Debug\net6.0\runtimes\win\native\mongocrypt.dll
+C:\Workspace\Arq Pessoal\microservices cqrs 6\SM-Post\Post.Cmd\Post.Cmd.Api\bin\Debug\net6.0\CQRS.Core.dll
+C:\Workspace\Arq Pessoal\microservices cqrs 6\SM-Post\Post.Cmd\Post.Cmd.Api\bin\Debug\net6.0\Post.Cmd.Domain.dll
+C:\Workspace\Arq Pessoal\microservices cqrs 6\SM-Post\Post.Cmd\Post.Cmd.Api\bin\Debug\net6.0\Post.Cmd.Infrastructure.dll
+C:\Workspace\Arq Pessoal\microservices cqrs 6\SM-Post\Post.Cmd\Post.Cmd.Api\bin\Debug\net6.0\Post.Common.dll
+C:\Workspace\Arq Pessoal\microservices cqrs 6\SM-Post\Post.Cmd\Post.Cmd.Api\bin\Debug\net6.0\Post.Cmd.Domain.pdb
+C:\Workspace\Arq Pessoal\microservices cqrs 6\SM-Post\Post.Cmd\Post.Cmd.Api\bin\Debug\net6.0\Post.Cmd.Infrastructure.pdb
+C:\Workspace\Arq Pessoal\microservices cqrs 6\SM-Post\Post.Cmd\Post.Cmd.Api\bin\Debug\net6.0\Post.Common.pdb
+C:\Workspace\Arq Pessoal\microservices cqrs 6\SM-Post\Post.Cmd\Post.Cmd.Api\bin\Debug\net6.0\CQRS.Core.pdb
+C:\Workspace\Arq Pessoal\microservices cqrs 6\SM-Post\Post.Cmd\Post.Cmd.Api\obj\Debug\net6.0\Post.Cmd.Api.csproj.AssemblyReference.cache
+C:\Workspace\Arq Pessoal\microservices cqrs 6\SM-Post\Post.Cmd\Post.Cmd.Api\obj\Debug\net6.0\Post.Cmd.Api.GeneratedMSBuildEditorConfig.editorconfig
+C:\Workspace\Arq Pessoal\microservices cqrs 6\SM-Post\Post.Cmd\Post.Cmd.Api\obj\Debug\net6.0\Post.Cmd.Api.AssemblyInfoInputs.cache
+C:\Workspace\Arq Pessoal\microservices cqrs 6\SM-Post\Post.Cmd\Post.Cmd.Api\obj\Debug\net6.0\Post.Cmd.Api.AssemblyInfo.cs
+C:\Workspace\Arq Pessoal\microservices cqrs 6\SM-Post\Post.Cmd\Post.Cmd.Api\obj\Debug\net6.0\Post.Cmd.Api.csproj.CoreCompileInputs.cache
+C:\Workspace\Arq Pessoal\microservices cqrs 6\SM-Post\Post.Cmd\Post.Cmd.Api\obj\Debug\net6.0\Post.Cmd.Api.MvcApplicationPartsAssemblyInfo.cs
+C:\Workspace\Arq Pessoal\microservices cqrs 6\SM-Post\Post.Cmd\Post.Cmd.Api\obj\Debug\net6.0\Post.Cmd.Api.MvcApplicationPartsAssemblyInfo.cache
+C:\Workspace\Arq Pessoal\microservices cqrs 6\SM-Post\Post.Cmd\Post.Cmd.Api\obj\Debug\net6.0\staticwebassets.build.json
+C:\Workspace\Arq Pessoal\microservices cqrs 6\SM-Post\Post.Cmd\Post.Cmd.Api\obj\Debug\net6.0\staticwebassets.development.json
+C:\Workspace\Arq Pessoal\microservices cqrs 6\SM-Post\Post.Cmd\Post.Cmd.Api\obj\Debug\net6.0\scopedcss\bundle\Post.Cmd.Api.styles.css
+C:\Workspace\Arq Pessoal\microservices cqrs 6\SM-Post\Post.Cmd\Post.Cmd.Api\obj\Debug\net6.0\Post.Cmd.Api.csproj.CopyComplete
+C:\Workspace\Arq Pessoal\microservices cqrs 6\SM-Post\Post.Cmd\Post.Cmd.Api\obj\Debug\net6.0\Post.Cmd.Api.dll
+C:\Workspace\Arq Pessoal\microservices cqrs 6\SM-Post\Post.Cmd\Post.Cmd.Api\obj\Debug\net6.0\refint\Post.Cmd.Api.dll
+C:\Workspace\Arq Pessoal\microservices cqrs 6\SM-Post\Post.Cmd\Post.Cmd.Api\obj\Debug\net6.0\Post.Cmd.Api.pdb
+C:\Workspace\Arq Pessoal\microservices cqrs 6\SM-Post\Post.Cmd\Post.Cmd.Api\obj\Debug\net6.0\Post.Cmd.Api.genruntimeconfig.cache
+C:\Workspace\Arq Pessoal\microservices cqrs 6\SM-Post\Post.Cmd\Post.Cmd.Api\obj\Debug\net6.0\ref\Post.Cmd.Api.dll

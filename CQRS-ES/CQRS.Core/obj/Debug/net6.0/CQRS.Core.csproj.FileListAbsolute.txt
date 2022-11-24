@@ -1,0 +1,36 @@
+/home/sean/Source/.NET-Microservices-CQRS-Event-Sourcing-with-Kafka/CQRS-ES/CQRS.Core/bin/Debug/net6.0/CQRS.Core.deps.json
+/home/sean/Source/.NET-Microservices-CQRS-Event-Sourcing-with-Kafka/CQRS-ES/CQRS.Core/bin/Debug/net6.0/CQRS.Core.dll
+/home/sean/Source/.NET-Microservices-CQRS-Event-Sourcing-with-Kafka/CQRS-ES/CQRS.Core/bin/Debug/net6.0/ref/CQRS.Core.dll
+/home/sean/Source/.NET-Microservices-CQRS-Event-Sourcing-with-Kafka/CQRS-ES/CQRS.Core/bin/Debug/net6.0/CQRS.Core.pdb
+/home/sean/Source/.NET-Microservices-CQRS-Event-Sourcing-with-Kafka/CQRS-ES/CQRS.Core/obj/Debug/net6.0/CQRS.Core.GeneratedMSBuildEditorConfig.editorconfig
+/home/sean/Source/.NET-Microservices-CQRS-Event-Sourcing-with-Kafka/CQRS-ES/CQRS.Core/obj/Debug/net6.0/CQRS.Core.AssemblyInfoInputs.cache
+/home/sean/Source/.NET-Microservices-CQRS-Event-Sourcing-with-Kafka/CQRS-ES/CQRS.Core/obj/Debug/net6.0/CQRS.Core.AssemblyInfo.cs
+/home/sean/Source/.NET-Microservices-CQRS-Event-Sourcing-with-Kafka/CQRS-ES/CQRS.Core/obj/Debug/net6.0/CQRS.Core.csproj.CoreCompileInputs.cache
+/home/sean/Source/.NET-Microservices-CQRS-Event-Sourcing-with-Kafka/CQRS-ES/CQRS.Core/obj/Debug/net6.0/CQRS.Core.dll
+/home/sean/Source/.NET-Microservices-CQRS-Event-Sourcing-with-Kafka/CQRS-ES/CQRS.Core/obj/Debug/net6.0/ref/CQRS.Core.dll
+/home/sean/Source/.NET-Microservices-CQRS-Event-Sourcing-with-Kafka/CQRS-ES/CQRS.Core/obj/Debug/net6.0/CQRS.Core.pdb
+/home/sean/Source/.NET-Microservices-CQRS-Event-Sourcing-with-Kafka/CQRS-ES/CQRS.Core/obj/Debug/net6.0/CQRS.Core.csproj.AssemblyReference.cache
+/media/sean/Data Drive1/Courses/Instruct/CQRS & ES with .NET and Kafka/Section 11/IEventHandler/Code/CQRS-ES/CQRS.Core/bin/Debug/net6.0/CQRS.Core.deps.json
+/media/sean/Data Drive1/Courses/Instruct/CQRS & ES with .NET and Kafka/Section 11/IEventHandler/Code/CQRS-ES/CQRS.Core/bin/Debug/net6.0/CQRS.Core.dll
+/media/sean/Data Drive1/Courses/Instruct/CQRS & ES with .NET and Kafka/Section 11/IEventHandler/Code/CQRS-ES/CQRS.Core/bin/Debug/net6.0/ref/CQRS.Core.dll
+/media/sean/Data Drive1/Courses/Instruct/CQRS & ES with .NET and Kafka/Section 11/IEventHandler/Code/CQRS-ES/CQRS.Core/bin/Debug/net6.0/CQRS.Core.pdb
+/media/sean/Data Drive1/Courses/Instruct/CQRS & ES with .NET and Kafka/Section 11/IEventHandler/Code/CQRS-ES/CQRS.Core/obj/Debug/net6.0/CQRS.Core.csproj.AssemblyReference.cache
+/media/sean/Data Drive1/Courses/Instruct/CQRS & ES with .NET and Kafka/Section 11/IEventHandler/Code/CQRS-ES/CQRS.Core/obj/Debug/net6.0/CQRS.Core.GeneratedMSBuildEditorConfig.editorconfig
+/media/sean/Data Drive1/Courses/Instruct/CQRS & ES with .NET and Kafka/Section 11/IEventHandler/Code/CQRS-ES/CQRS.Core/obj/Debug/net6.0/CQRS.Core.AssemblyInfoInputs.cache
+/media/sean/Data Drive1/Courses/Instruct/CQRS & ES with .NET and Kafka/Section 11/IEventHandler/Code/CQRS-ES/CQRS.Core/obj/Debug/net6.0/CQRS.Core.AssemblyInfo.cs
+/media/sean/Data Drive1/Courses/Instruct/CQRS & ES with .NET and Kafka/Section 11/IEventHandler/Code/CQRS-ES/CQRS.Core/obj/Debug/net6.0/CQRS.Core.csproj.CoreCompileInputs.cache
+/media/sean/Data Drive1/Courses/Instruct/CQRS & ES with .NET and Kafka/Section 11/IEventHandler/Code/CQRS-ES/CQRS.Core/obj/Debug/net6.0/CQRS.Core.dll
+/media/sean/Data Drive1/Courses/Instruct/CQRS & ES with .NET and Kafka/Section 11/IEventHandler/Code/CQRS-ES/CQRS.Core/obj/Debug/net6.0/ref/CQRS.Core.dll
+/media/sean/Data Drive1/Courses/Instruct/CQRS & ES with .NET and Kafka/Section 11/IEventHandler/Code/CQRS-ES/CQRS.Core/obj/Debug/net6.0/CQRS.Core.pdb
+C:\Workspace\Arq Pessoal\microservices cqrs 6\CQRS-ES\CQRS.Core\bin\Debug\net6.0\CQRS.Core.deps.json
+C:\Workspace\Arq Pessoal\microservices cqrs 6\CQRS-ES\CQRS.Core\bin\Debug\net6.0\CQRS.Core.dll
+C:\Workspace\Arq Pessoal\microservices cqrs 6\CQRS-ES\CQRS.Core\bin\Debug\net6.0\CQRS.Core.pdb
+C:\Workspace\Arq Pessoal\microservices cqrs 6\CQRS-ES\CQRS.Core\obj\Debug\net6.0\CQRS.Core.csproj.AssemblyReference.cache
+C:\Workspace\Arq Pessoal\microservices cqrs 6\CQRS-ES\CQRS.Core\obj\Debug\net6.0\CQRS.Core.GeneratedMSBuildEditorConfig.editorconfig
+C:\Workspace\Arq Pessoal\microservices cqrs 6\CQRS-ES\CQRS.Core\obj\Debug\net6.0\CQRS.Core.AssemblyInfoInputs.cache
+C:\Workspace\Arq Pessoal\microservices cqrs 6\CQRS-ES\CQRS.Core\obj\Debug\net6.0\CQRS.Core.AssemblyInfo.cs
+C:\Workspace\Arq Pessoal\microservices cqrs 6\CQRS-ES\CQRS.Core\obj\Debug\net6.0\CQRS.Core.csproj.CoreCompileInputs.cache
+C:\Workspace\Arq Pessoal\microservices cqrs 6\CQRS-ES\CQRS.Core\obj\Debug\net6.0\CQRS.Core.dll
+C:\Workspace\Arq Pessoal\microservices cqrs 6\CQRS-ES\CQRS.Core\obj\Debug\net6.0\refint\CQRS.Core.dll
+C:\Workspace\Arq Pessoal\microservices cqrs 6\CQRS-ES\CQRS.Core\obj\Debug\net6.0\CQRS.Core.pdb
+C:\Workspace\Arq Pessoal\microservices cqrs 6\CQRS-ES\CQRS.Core\obj\Debug\net6.0\ref\CQRS.Core.dll
